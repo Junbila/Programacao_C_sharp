@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\inventario_items\obj\Debug\inventario_items.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\inventario_items\obj\Debug\inventario_items.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\inventario_items\bin\Debug\inventario_items.exe.config
+C:\Users\bryan.vlima\source\repos\inventario_items\bin\Debug\inventario_items.exe
+C:\Users\bryan.vlima\source\repos\inventario_items\bin\Debug\inventario_items.pdb
+C:\Users\bryan.vlima\source\repos\inventario_items\obj\Debug\inventario_items.exe
+C:\Users\bryan.vlima\source\repos\inventario_items\obj\Debug\inventario_items.pdb

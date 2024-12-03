@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\evento\bin\Debug\evento.exe.config
+C:\Users\bryan.vlima\source\repos\evento\bin\Debug\evento.exe
+C:\Users\bryan.vlima\source\repos\evento\bin\Debug\evento.pdb
+C:\Users\bryan.vlima\source\repos\evento\obj\Debug\evento.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\evento\obj\Debug\evento.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\evento\obj\Debug\evento.exe
+C:\Users\bryan.vlima\source\repos\evento\obj\Debug\evento.pdb

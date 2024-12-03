@@ -1,0 +1,2 @@
+C:\Users\bryan.vlima\source\repos\lista_de_tarefas\obj\Debug\lista_de_tarefas.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\lista_de_tarefas\obj\Debug\lista_de_tarefas.csproj.CoreCompileInputs.cache

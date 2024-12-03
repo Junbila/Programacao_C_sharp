@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\zoo\bin\Debug\zoo.exe.config
+C:\Users\bryan.vlima\source\repos\zoo\bin\Debug\zoo.exe
+C:\Users\bryan.vlima\source\repos\zoo\bin\Debug\zoo.pdb
+C:\Users\bryan.vlima\source\repos\zoo\obj\Debug\zoo.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\zoo\obj\Debug\zoo.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\zoo\obj\Debug\zoo.exe
+C:\Users\bryan.vlima\source\repos\zoo\obj\Debug\zoo.pdb

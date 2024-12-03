@@ -1,0 +1,14 @@
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\bryan.vlima\Documents\GitHub\Programacao_C_sharp\Tabuada\obj\Debug\Tabuada.pdb
+C:\Users\bryan.vlima\source\repos\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\bryan.vlima\source\repos\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\bryan.vlima\source\repos\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\bryan.vlima\source\repos\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\bryan.vlima\source\repos\Tabuada\obj\Debug\Tabuada.pdb

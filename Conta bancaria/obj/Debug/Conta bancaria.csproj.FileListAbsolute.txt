@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\Conta bancaria\bin\Debug\Conta bancaria.exe.config
+C:\Users\bryan.vlima\source\repos\Conta bancaria\bin\Debug\Conta bancaria.exe
+C:\Users\bryan.vlima\source\repos\Conta bancaria\bin\Debug\Conta bancaria.pdb
+C:\Users\bryan.vlima\source\repos\Conta bancaria\obj\Debug\Conta bancaria.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\Conta bancaria\obj\Debug\Conta bancaria.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\Conta bancaria\obj\Debug\Conta bancaria.exe
+C:\Users\bryan.vlima\source\repos\Conta bancaria\obj\Debug\Conta bancaria.pdb

@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\combustivel\bin\Debug\combustivel.exe.config
+C:\Users\bryan.vlima\source\repos\combustivel\bin\Debug\combustivel.exe
+C:\Users\bryan.vlima\source\repos\combustivel\bin\Debug\combustivel.pdb
+C:\Users\bryan.vlima\source\repos\combustivel\obj\Debug\combustivel.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\combustivel\obj\Debug\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\combustivel\obj\Debug\combustivel.exe
+C:\Users\bryan.vlima\source\repos\combustivel\obj\Debug\combustivel.pdb

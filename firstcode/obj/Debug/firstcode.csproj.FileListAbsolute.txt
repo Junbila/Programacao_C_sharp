@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\firstcode\bin\Debug\firstcode.exe.config
+C:\Users\bryan.vlima\source\repos\firstcode\bin\Debug\firstcode.exe
+C:\Users\bryan.vlima\source\repos\firstcode\bin\Debug\firstcode.pdb
+C:\Users\bryan.vlima\source\repos\firstcode\obj\Debug\firstcode.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\firstcode\obj\Debug\firstcode.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\firstcode\obj\Debug\firstcode.exe
+C:\Users\bryan.vlima\source\repos\firstcode\obj\Debug\firstcode.pdb

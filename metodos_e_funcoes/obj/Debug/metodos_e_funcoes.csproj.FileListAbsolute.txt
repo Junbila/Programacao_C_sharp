@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\bin\Debug\metodos_e_funcoes.exe.config
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\bin\Debug\metodos_e_funcoes.exe
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\bin\Debug\metodos_e_funcoes.pdb
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\obj\Debug\metodos_e_funcoes.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\obj\Debug\metodos_e_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\obj\Debug\metodos_e_funcoes.exe
+C:\Users\bryan.vlima\source\repos\metodos_e_funcoes\obj\Debug\metodos_e_funcoes.pdb

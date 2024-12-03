@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryan.vlima\\source\\repos\\bilheteria estadio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86E5A8D-3451-4004-820F-3AE1F3FDE241}|bilheteria estadio.csproj|c:\\users\\bryan.vlima\\documents\\github\\programacao_c_sharp\\venda_de_ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "venda_de_ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\bryan.vlima\\Documents\\GitHub\\Programacao_C_sharp\\venda_de_ingresso.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\GitHub\\Programacao_C_sharp\\venda_de_ingresso.cs",
+              "ToolTip": "C:\\Users\\bryan.vlima\\Documents\\GitHub\\Programacao_C_sharp\\venda_de_ingresso.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\GitHub\\Programacao_C_sharp\\venda_de_ingresso.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:12:48.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

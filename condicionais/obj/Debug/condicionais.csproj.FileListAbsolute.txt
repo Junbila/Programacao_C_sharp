@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\condicionais\bin\Debug\condicionais.exe.config
+C:\Users\bryan.vlima\source\repos\condicionais\bin\Debug\condicionais.exe
+C:\Users\bryan.vlima\source\repos\condicionais\bin\Debug\condicionais.pdb
+C:\Users\bryan.vlima\source\repos\condicionais\obj\Debug\condicionais.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\condicionais\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\condicionais\obj\Debug\condicionais.exe
+C:\Users\bryan.vlima\source\repos\condicionais\obj\Debug\condicionais.pdb

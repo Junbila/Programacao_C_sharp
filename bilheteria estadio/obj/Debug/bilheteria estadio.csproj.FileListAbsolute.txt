@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\bin\Debug\bilheteria estadio.exe.config
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\bin\Debug\bilheteria estadio.exe
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\bin\Debug\bilheteria estadio.pdb
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\obj\Debug\bilheteria estadio.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\obj\Debug\bilheteria estadio.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\obj\Debug\bilheteria estadio.exe
+C:\Users\bryan.vlima\source\repos\bilheteria estadio\obj\Debug\bilheteria estadio.pdb

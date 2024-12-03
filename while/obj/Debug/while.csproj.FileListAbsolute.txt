@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\while\bin\Debug\@while.exe.config
+C:\Users\bryan.vlima\source\repos\while\bin\Debug\@while.exe
+C:\Users\bryan.vlima\source\repos\while\bin\Debug\@while.pdb
+C:\Users\bryan.vlima\source\repos\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\while\obj\Debug\@while.exe
+C:\Users\bryan.vlima\source\repos\while\obj\Debug\@while.pdb

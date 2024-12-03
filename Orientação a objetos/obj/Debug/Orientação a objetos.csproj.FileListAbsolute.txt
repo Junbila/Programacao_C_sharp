@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\bin\Debug\Orientação a objetos.exe.config
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\bin\Debug\Orientação a objetos.exe
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\bin\Debug\Orientação a objetos.pdb
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\obj\Debug\Orientação a objetos.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\obj\Debug\Orientação a objetos.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\obj\Debug\Orientação a objetos.exe
+C:\Users\bryan.vlima\source\repos\Orientação a objetos\obj\Debug\Orientação a objetos.pdb

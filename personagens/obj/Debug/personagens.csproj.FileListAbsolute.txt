@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\personagens\obj\Debug\personagens.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\personagens\obj\Debug\personagens.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\personagens\bin\Debug\personagens.exe.config
+C:\Users\bryan.vlima\source\repos\personagens\bin\Debug\personagens.exe
+C:\Users\bryan.vlima\source\repos\personagens\bin\Debug\personagens.pdb
+C:\Users\bryan.vlima\source\repos\personagens\obj\Debug\personagens.exe
+C:\Users\bryan.vlima\source\repos\personagens\obj\Debug\personagens.pdb

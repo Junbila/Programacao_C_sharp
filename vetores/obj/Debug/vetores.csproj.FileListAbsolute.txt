@@ -1,0 +1,7 @@
+C:\Users\bryan.vlima\source\repos\vetores\bin\Debug\vetores.exe.config
+C:\Users\bryan.vlima\source\repos\vetores\bin\Debug\vetores.exe
+C:\Users\bryan.vlima\source\repos\vetores\bin\Debug\vetores.pdb
+C:\Users\bryan.vlima\source\repos\vetores\obj\Debug\vetores.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\vetores\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\vetores\obj\Debug\vetores.exe
+C:\Users\bryan.vlima\source\repos\vetores\obj\Debug\vetores.pdb
