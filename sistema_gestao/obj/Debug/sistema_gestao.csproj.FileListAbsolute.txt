@@ -1,0 +1,11 @@
+C:\Users\bryan.vlima\source\repos\sistema_gestao\bin\Debug\sistema_gestao.exe.config
+C:\Users\bryan.vlima\source\repos\sistema_gestao\bin\Debug\sistema_gestao.exe
+C:\Users\bryan.vlima\source\repos\sistema_gestao\bin\Debug\sistema_gestao.pdb
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.csproj.AssemblyReference.cache
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.Form1.resources
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.Properties.Resources.resources
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.csproj.GenerateResource.cache
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.csproj.CoreCompileInputs.cache
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.exe
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.pdb
+C:\Users\bryan.vlima\source\repos\sistema_gestao\obj\Debug\sistema_gestao.principal.resources
